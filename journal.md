@@ -3,4 +3,7 @@ the light sensor, the color sensor, and the infared sensor
 
 The light sensor measures the surrounding light. When this happens it will send a message according to its code
 
-# september 5, 2024
+# september 13, 2024
+
+I faced one difficulty while setting up my journal, that was me forgetting that our warmups were weekly.
+
